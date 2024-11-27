@@ -47,6 +47,11 @@
       "id": "a093",
       "name": "employee",
       "permissions": []
+    },
+    {
+      "id": "8df0",
+      "name": "",
+      "permissions": []
     }
   ]
 }
