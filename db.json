@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "08dc",
+      "name": "Raj",
+      "role": "Admin",
+      "status": "Active"
+    },
+    {
+      "id": "3caa",
+      "name": "Jack",
+      "role": "Manager",
+      "status": "Active"
+    },
+    {
+      "id": "3397",
+      "name": "Sam",
+      "role": "employee",
+      "status": "Active"
+    },
+    {
+      "id": "0385",
+      "name": "Saurabh",
+      "role": "Admin",
+      "status": "Inactive"
+    }
+  ],
+  "roles": [
+    {
+      "id": "d908",
+      "name": "Admin",
+      "permissions": [
+        "Read",
+        "Write",
+        "Delete"
+      ]
+    },
+    {
+      "id": "7baa",
+      "name": "Manager",
+      "permissions": [
+        "Read",
+        "Write"
+      ]
+    },
+    {
+      "id": "a093",
+      "name": "employee",
+      "permissions": []
+    }
+  ]
+}
